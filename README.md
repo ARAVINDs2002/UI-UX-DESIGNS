@@ -4,8 +4,8 @@
 
 [**DESIGN 1**](https://www.figma.com/community/file/1469730165151814536) 
 
-[**DESIGN 1**]([https://www.figma.com/community/file/1469730165151814536](https://www.figma.com/community/file/1470089984106573911/header-variants
-))
+[**DESIGN 2**]([https://www.figma.com/community/file/1469730165151814536](https://www.figma.com/community/file/1470089984106573911/header-variants
+)
 
 ## About this Repository
 
